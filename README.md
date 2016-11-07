@@ -11,8 +11,11 @@
 ----------
 
 ##应用截图
+
 ![image](https://github.com/AlionSSS/QQSlideMenu/blob/master/Screenshot_1.png)
 ![image](https://github.com/AlionSSS/QQSlideMenu/blob/master/Screenshot_2.png)
+
+----------
 
 ##详细
 
