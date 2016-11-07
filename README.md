@@ -10,16 +10,18 @@
 
 ----------
 
-##应用截图
+##详细
+
+本项目仿照QQ的侧滑效果，使用Android Studio制作了滑划菜单控件view。项目包括了一系列侧滑效果、文字与图像动画效果等。
+
+----------
+
+##截图
 
 ![image](https://github.com/AlionSSS/QQSlideMenu/blob/master/Screenshot_1.png)
 ![image](https://github.com/AlionSSS/QQSlideMenu/blob/master/Screenshot_2.png)
 
 ----------
-
-##详细
-
-本项目仿照QQ的侧滑效果，使用Android Studio制作了滑划菜单控件view。项目包括了一系列侧滑效果、文字与图像动画效果等。
 
 ##build.gradle
 	apply plugin: 'com.android.application'
